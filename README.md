@@ -1,5 +1,6 @@
 ### Majority of our work are in database.py, routes.py, and all the html files.
 # DreamPC
+## Team members: naifuz2, jiaqic7, yufei6, bwang36
 A SQL database-centric web application
 
 There are numerous models of personal computers in the market, and sometimes it is difficult to choose one from them,
