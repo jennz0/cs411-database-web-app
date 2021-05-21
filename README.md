@@ -1,3 +1,4 @@
+### Majority of our work are in database.py, routes.py, and all the html files.
 # DreamPC
 A SQL database-centric web application
 
